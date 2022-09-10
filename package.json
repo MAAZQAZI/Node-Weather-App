@@ -1,0 +1,15 @@
+{
+  "name": "wapp",
+  "version": "1.0.0",
+  "description": "my mosam app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maaz",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
